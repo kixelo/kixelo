@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: <br>
 - [[igorolexik@gmail.com|email]] <br>
-- [[https://www.linkedin.com/in/igor-olexik-704997119|Linkedin]] <br>
+- {{https://www.linkedin.com/in/igor-olexik-704997119|Linkedin}} <br>
 - [[https://www.linkedin.com/in/igor-olexik-704997119](https://replit.com/@kixelo)|Replit]] <br>
 
 <!---
