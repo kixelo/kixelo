@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Python, and a bit of Linux too...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: <br>
-https://www.linkedin.com/in/igor-olexik-704997119 <br>
 https://replit.com/@kixelo <br>
+https://www.linkedin.com/in/igor-olexik-704997119 <br>
 igorolexik@gmail.com
 
 <!---
