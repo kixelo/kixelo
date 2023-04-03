@@ -5,6 +5,7 @@
 - 📫 How to reach me: <br>
  igorolexik@gmail.com <br>
  https://www.linkedin.com/in/igor-olexik-704997119 <br>
+ More projects here: <br>
  https://replit.com/@kixelo <br>
  https://horn-island-146.notion.site/Python-Projects-1d2bdba21b084004909a13d71116ebdd <br>
  https://kixelo-create-and-publish-web-apps-and-data-dashboa-main-z8kuzp.streamlit.app/ <br>
